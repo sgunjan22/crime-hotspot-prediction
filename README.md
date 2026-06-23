@@ -99,3 +99,7 @@ crime-hotspot-prediction/
 - Random Forest comparison
 - Time-series forecasting
 - Community-level analysis
+
+## Heatmap Visualization
+
+![Crime Heatmap](images/crime_heatmap.png)
